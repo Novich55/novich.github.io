@@ -1,0 +1,12 @@
+body {
+    background-color: lightgray;
+}
+
+div {
+    color: blue;
+    text-align: center;
+}
+
+a:hover {
+    color: hotpink;
+}
